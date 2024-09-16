@@ -61,6 +61,13 @@ Additional features include:
 
 ---
 
+### [PIC18F4620 MCU Implementation](https://github.com/ahmedelzaky/PIC18F4620_DRIVER)
+This project demonstrates the implementation of various peripherals and modules using the PIC18F4620 microcontroller. It is structured into two layers:  
+- **ECU (Electronic Control Unit) Layer**: Contains drivers for hardware components like 7-segment displays, buttons, DC motors, keypads, LCDs, LEDs, and relays.
+- **MCAL (Microcontroller Abstraction Layer)**: Provides abstraction for the microcontroller's hardware peripherals, including drivers for ADC, CCP, EEPROM, GPIO, I2C, interrupts, SPI, timers, and USART.
+
+---
+
 ## 🎯 Activities and Experience
 
 - **Zigzag RES Member (2022 - 2023)**  
